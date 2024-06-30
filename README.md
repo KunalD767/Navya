@@ -41,7 +41,6 @@ Navya is developed to enhance the customer service experience in the banking sec
 
 Navya is built on a modular architecture deployed on Azure, utilizing Azure OpenAI Service, Azure Cognitive Services, and Azure Functions for backend processing. It integrates with banking systems via an integration layer for data retrieval and transaction processing.
 
-![Architecture Diagram](architecture_diagram.png)
 
 ## Deployment
 
